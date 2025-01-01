@@ -1,4 +1,7 @@
 I am a Student trying to get better at coding so i set myself the Goal that no matter how small i wanna code something every day to keep learning and stay up to date with new coding trends.
+
+I am currently planning to go through the tutorials on ![Gamemaker](https://gamemaker.io/en/tutorials)
+
 ### 📊 Stats
 
 ![Arkcorner's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arkcorner&theme=tokyonight&hide_border=true)
