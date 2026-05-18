@@ -1,4 +1,4 @@
-I am a Coding and Software engineering student focusing on Game and AI development. 
+I am a Coding and Software engineering student. 
 
 ### 📊 Stats
 
